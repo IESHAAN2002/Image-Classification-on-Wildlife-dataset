@@ -6,26 +6,23 @@ In order to perform the Image Classfication we tried the following:
 
 **Results**:
 1. CNN(Convolutional Neural Network):
- ● Test Accuracy: 0.6789
- ● Test F1-Score: 0.6741
- ● The CNN architecture achieved an accuracy of around
- 67.89% on the testing dataset.
+   Test Accuracy: 0.6789
+   Test F1-Score: 0.6741
+   The CNN architecture achieved an accuracy of around 67.89% on the testing dataset.
    
 2.ResNet-18 with dataset:
-  ● Test Accuracy: 0.8824
-  ● Test F1-Score: 0.8820
-  ● TheResNet architecture achieved an accuracy of around
- 88.24% on the testing dataset.
+  Test Accuracy: 0.8824
+  Test F1-Score: 0.8820
+  The ResNet-18 architecture achieved an accuracy of around 88.24% on the testing dataset.
 
 3.Augmented Dataset with ResNet:
- ● Test Accuracy: 0.9332
- ● Test F1-Score: 0.9336
- ● Theaugmented dataset with ResNet achieved the highest
- accuracy of around 93.32% on the testing dataset.
+ Test Accuracy: 0.9332
+ Test F1-Score: 0.9336
+ The augmented dataset with ResNet achieved the highest accuracy of around 93.32% on the testing dataset.
 
 **Conclusion**:
- The ResNet model showed significant
- improvement over CNN, achieving an accuracy of 88.24%.
+
+ The ResNet model showed significant improvement over CNN, achieving an accuracy of 88.24%. 
  ResNet is known for its deep architecture with skip connections,
  which helps mitigate the vanishing gradient problem and enables
  the training of very deep neural networks. However The
