@@ -16,9 +16,9 @@ In order to perform the Image Classfication we tried the following:
    3. The ResNet-18 architecture achieved an accuracy of around 88.24% on the testing dataset.
 
 3. Augmented Dataset with ResNet:
- 1. Test Accuracy: 0.9332
- 2. Test F1-Score: 0.9336
- 3. The augmented dataset with ResNet achieved the highest accuracy of around 93.32% on the testing dataset.
+   1. Test Accuracy: 0.9332
+   2. Test F1-Score: 0.9336
+   3. The augmented dataset with ResNet achieved the highest accuracy of around 93.32% on the testing dataset.
 
 **Conclusion**:
 
