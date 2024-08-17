@@ -10,12 +10,12 @@ In order to perform the Image Classfication we tried the following:
    Test F1-Score: 0.6741
    The CNN architecture achieved an accuracy of around 67.89% on the testing dataset.
    
-2.ResNet-18 with dataset:
+2. ResNet-18 with dataset:
   Test Accuracy: 0.8824
   Test F1-Score: 0.8820
   The ResNet-18 architecture achieved an accuracy of around 88.24% on the testing dataset.
 
-3.Augmented Dataset with ResNet:
+3. Augmented Dataset with ResNet:
  Test Accuracy: 0.9332
  Test F1-Score: 0.9336
  The augmented dataset with ResNet achieved the highest accuracy of around 93.32% on the testing dataset.
